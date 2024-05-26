@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Soni</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India Currently looking for Internship</h3>
 
 - 🔭 I’m currently working on **A final year project**
 
