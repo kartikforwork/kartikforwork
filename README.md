@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kartikforwork@gmail.com**
 
-- 📄 Know about my experiences [will put someday](will put someday)
+- 📄 Know about my experiences: <a href="https://www.leetcode.com/kartikforwork](https://drive.google.com/file/d/1JqGWNsZxPiip6dmkZQwXiG3E9vxx_YcY/view?usp=drive_link">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
