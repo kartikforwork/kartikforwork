@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kartikforwork@gmail.com**
 
-- 📄 Know about my experiences: <a href="[https://drive.google.com/file/d/1JqGWNsZxPiip6dmkZQwXiG3E9vxx_YcY/view?usp=drive_link](https://drive.google.com/file/d/10lAJJkWbMuqBceKEFDtm65NgMcme5bMQ/view?usp=sharing)">Resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/10lAJJkWbMuqBceKEFDtm65NgMcme5bMQ/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
